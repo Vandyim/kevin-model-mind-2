@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "ModelMind - The Trust Index for AI",
   description: "Explore hallucination risk, factual accuracy & answer quality across today's top language models.",
-    generator: ''
+    generator: ' '
 }
 
 export default function RootLayout({
